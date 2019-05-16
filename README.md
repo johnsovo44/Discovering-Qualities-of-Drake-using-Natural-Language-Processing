@@ -29,10 +29,10 @@ Project notebooks follows the data science workflow of:
 
 There are four notebooks that will walk through all of this. Please visit each one below:
 
-- [Cleaning](./Rap Genius - Cleaning.ipynb.ipynb)
-- [Collection](./Rap Genius - Collection.ipynb.ipynb)
-- [EDA](./Rap Genius - EDA.ipynb.ipynb)
-- [Model](./Rap Genius - Model.ipynb.ipynb)
+- [Cleaning](./https://github.com/johnsovo44/Rap_Genius--NLP/blob/master/Code/Rap%20Genius%20-%20Cleaning.ipynb)
+- [Collection](./https://github.com/johnsovo44/Rap_Genius--NLP/blob/master/Code/Rap%20Genius%20-%20Collection.ipynb)
+- [EDA](./https://github.com/johnsovo44/Rap_Genius--NLP/blob/master/Code/Rap%20Genius%20-%20EDA.ipynb)
+- [Model](./https://github.com/johnsovo44/Rap_Genius--NLP/blob/master/Code/Rap%20Genius%20-%20Model.ipynb)
 
 ### Executive Summary
 #### Data Import and Cleaning
