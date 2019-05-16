@@ -29,10 +29,10 @@ Project notebooks follows the data science workflow of:
 
 There are four notebooks that will walk through all of this. Please visit each one below:
 
-- [Cleaning](./https://github.com/johnsovo44/Rap_Genius--NLP/blob/master/Code/Rap%20Genius%20-%20Cleaning.ipynb)
-- [Collection](./https://github.com/johnsovo44/Rap_Genius--NLP/blob/master/Code/Rap%20Genius%20-%20Collection.ipynb)
-- [EDA](./https://github.com/johnsovo44/Rap_Genius--NLP/blob/master/Code/Rap%20Genius%20-%20EDA.ipynb)
-- [Model](./https://github.com/johnsovo44/Rap_Genius--NLP/blob/master/Code/Rap%20Genius%20-%20Model.ipynb)
+- [Cleaning](./Rap Genius - Cleaning.ipynb.ipynb)
+- [Collection](./Rap Genius - Collection.ipynb.ipynb)
+- [EDA](./Rap Genius - EDA.ipynb.ipynb)
+- [Model](./Rap Genius - Model.ipynb.ipynb)
 
 ### Executive Summary
 #### Data Import and Cleaning
@@ -61,7 +61,7 @@ Next steps after this include the following:
 - Compare the Markov Chain Model to an RNN model to see if I can get grammatically correct lyrics.
 - Generate random lyrics from each artist and see if a classification model can properly identify them
 - Since LDA is a fuzzy unsupervised model, use DBSCAN or KNN to create clear topics and see where the artists' corpus falls. 
-- Continue to clean the lyrics and add more artist to further understand Drake as a lyricst.
+- Continue to clean the lyrics to remove featured artist and add more artist to increase diversity and further understand Drake as a lyricst.
 ### Source Documentation
 There were some additional resources that helped me understand the scope of my project and how to complete it. The following are resources I used to:
 
